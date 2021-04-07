@@ -1,2 +1,2 @@
 # MilkAndHonney
-Proyecto de prueba con spring boot
+Proyecto didactico de prueba con spring boot
